@@ -1,0 +1,54 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.title-box {
+  display: flex;
+  justify-content: space-around;
+}
+
+.total-hours {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.total-hours span {
+  padding: 1rem;
+}
+
+.footer {
+  margin: 3rem;
+}
+
+@media (max-width: 768px) {
+  .title-box {
+    font-size: 1rem;
+    display: block;
+  }
+
+  .table-schedules {
+    overflow: scroll;
+  }
+
+  #table {
+    width: 1000px;
+  }
+}
