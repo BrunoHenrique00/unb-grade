@@ -16,10 +16,21 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tLUIS FILOMENO DE JESUS FERNANDES",
         "time":"Quarta-feira 10:00 \u00e0s 11:50Sexta-feira 10:00 \u00e0s 11:50  ",
-        "place":" FGA - MOCAP",
+        "place":" FGA - I6",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"80",
+        "classSize":"48",
         "timeCode":"46M34"
+    },
+    {
+        "id":"FGA000625T45",
+        "name":"FUNDAMENTOS DE EQUA\u00c7\u00d5ES DIFERENCIAIS PARA ENGENHARIA",
+        "link":"",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYEVSEY YEHOSHUA SOBOLEVSKY",
+        "time":"Segunda-feira 16:00 \u00e0s 17:50Quinta-feira 16:00 \u00e0s 17:50  ",
+        "place":" FGA - I2",
+        "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
+        "classSize":"60",
+        "timeCode":"25T45"
     },
     {
         "id":"FGA000824M34",
@@ -27,10 +38,21 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRONNE TOLEDO",
         "time":"Segunda-feira 10:00 \u00e0s 11:50Quarta-feira 10:00 \u00e0s 11:50  ",
-        "place":" FGA - I8",
+        "place":" FGA - I8 \/ CONTAINER 17",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"45",
         "timeCode":"24M34"
+    },
+    {
+        "id":"FGA001346T646N1",
+        "name":"ANATOMIA E FISIOLOGIA HUMANA",
+        "link":"",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tSUELIA DE SIQUEIRA RODRIGUES FLEURY ROSA",
+        "time":"Quarta-feira 18:00 \u00e0s 19:50Sexta-feira 18:00 \u00e0s 19:50  ",
+        "place":" FGA - I3",
+        "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
+        "classSize":"50",
+        "timeCode":"46T646N1"
     },
     {
         "id":"FGA001546M546T1",
@@ -42,6 +64,17 @@
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"40",
         "timeCode":"46M546"
+    },
+    {
+        "id":"FGA001646M34",
+        "name":"T\u00d3PICOS ESPECIAL EM INSTRUMENTA\u00c7\u00c3O BIOM\u00c9DICA",
+        "link":"",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tJOSE FELICIO DA SILVA",
+        "time":"Quarta-feira 10:00 \u00e0s 11:50Sexta-feira 10:00 \u00e0s 11:50  ",
+        "place":" FGA - MULTIUSO\/LAB NEI 2",
+        "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
+        "classSize":"15",
+        "timeCode":"46M34"
     },
     {
         "id":"FGA001735T23",
@@ -66,15 +99,15 @@
         "timeCode":"35M12"
     },
     {
-        "id":"FGA002546T23",
+        "id":"FGA002524T23",
         "name":"SISTEMAS DE ENERGIA SOLAR E E\u00d3LICA",
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tJORGE ANDRES CORMANE ANGARITA",
-        "time":"Quarta-feira 14:00 \u00e0s 15:50Sexta-feira 14:00 \u00e0s 15:50  ",
+        "time":"Segunda-feira 14:00 \u00e0s 15:50Quarta-feira 14:00 \u00e0s 15:50  ",
         "place":" FGA - I5",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"45",
-        "timeCode":"46T23"
+        "timeCode":"24T23"
     },
     {
         "id":"FGA003046T45",
@@ -99,26 +132,26 @@
         "timeCode":"46M34"
     },
     {
-        "id":"FGA003746M12",
-        "name":"T\u00d3PICOS ESPECIAIS EM ENGENHARIA AEROESPACIAL",
+        "id":"FGA003435T635N1",
+        "name":"T\u00d3PICOS ESPECIAIS EM MATEM\u00c1TICA APLICADA",
         "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRODRIGO ANDRES MIRANDA CERDA",
-        "time":"Quarta-feira 08:00 \u00e0s 09:50Sexta-feira 08:00 \u00e0s 09:50  ",
-        "place":" FGA - LDTEA - 2\u00ba Andar - Sala 302",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tVINICIUS DE CARVALHO RISPOLI",
+        "time":"Ter\u00e7a-feira 18:00 \u00e0s 19:50Quinta-feira 18:00 \u00e0s 19:50  ",
+        "place":" FGA - I2",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"20",
-        "timeCode":"46M12"
+        "classSize":"45",
+        "timeCode":"35T635N1"
     },
     {
-        "id":"FGA003746M1224T624N1",
+        "id":"FGA003746T23",
         "name":"T\u00d3PICOS ESPECIAIS EM ENGENHARIA AEROESPACIAL",
         "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tPAOLO GESSINI",
-        "time":"Segunda-feira 18:00 \u00e0s 19:50Quarta-feira 18:00 \u00e0s 19:50  ",
-        "place":" FGA - Sala I2 (Din\u00e2mica dos Gases Avan\u00e7ada)",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tFernando Merege",
+        "time":"Quarta-feira 14:00 \u00e0s 15:50Sexta-feira 14:00 \u00e0s 15:50  ",
+        "place":" FGA - LAB TERMODIN\u00c2MICA",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"25",
-        "timeCode":"24T624N1"
+        "timeCode":"46T23"
     },
     {
         "id":"FGA003835T456T4",
@@ -165,6 +198,17 @@
         "timeCode":"35T23"
     },
     {
+        "id":"FGA004446M12",
+        "name":"PROJETO DE SISTEMAS DE CONTROLE",
+        "link":"",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tTHIAGO FELIPPE KURUDEZ CORDEIRO",
+        "time":"Quarta-feira 08:00 \u00e0s 09:50Sexta-feira 08:00 \u00e0s 09:50  ",
+        "place":" FGA - I1 \/ I4",
+        "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
+        "classSize":"30",
+        "timeCode":"46M12"
+    },
+    {
         "id":"FGA004546M34",
         "name":"MEC\u00c2NICA DO V\u00d4O",
         "link":"",
@@ -196,6 +240,17 @@
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"45",
         "timeCode":"46M34"
+    },
+    {
+        "id":"FGA00492T23454T23",
+        "name":"PROJETO DE SISTEMAS AEROESPACIAIS",
+        "link":"",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRONNE TOLEDO",
+        "time":"Segunda-feira 14:00 \u00e0s 17:50Quarta-feira 14:00 \u00e0s 15:50  ",
+        "place":" FGA - CONTAINER 17",
+        "workload":"90h\n\t\t\t\t\t\t\t\t\t\t\n",
+        "classSize":"20",
+        "timeCode":"2T23454T23"
     },
     {
         "id":"FGA005035M34",
@@ -275,6 +330,28 @@
         "timeCode":"35M12"
     },
     {
+        "id":"FGA006346M34",
+        "name":"PROPULS\u00c3O AERON\u00c1UTICA",
+        "link":"",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRAFAEL CASTILHO FARIA MENDES",
+        "time":"Quarta-feira 10:00 \u00e0s 11:50Sexta-feira 10:00 \u00e0s 11:50  ",
+        "place":" FGA - I2",
+        "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
+        "classSize":"45",
+        "timeCode":"46M34"
+    },
+    {
+        "id":"FGA006635M34",
+        "name":"FUNDAMENTOS DE VARI\u00c1VEL COMPLEXA PARA ENGENHARIA",
+        "link":"",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tVINICIUS DE CARVALHO RISPOLI",
+        "time":"Ter\u00e7a-feira 10:00 \u00e0s 11:50Quinta-feira 10:00 \u00e0s 11:50  ",
+        "place":" FGA - I2",
+        "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
+        "classSize":"60",
+        "timeCode":"35M34"
+    },
+    {
         "id":"FGA006724M12",
         "name":"TEORIA DE CIRCUITOS ELETR\u00d4NICOS 1",
         "link":"",
@@ -319,18 +396,7 @@
         "timeCode":"3T23"
     },
     {
-        "id":"FGA00693T234T23",
-        "name":"PR\u00c1TICA DE CIRCUITOS ELETR\u00d4NICOS 1",
-        "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tSUELIA DE SIQUEIRA RODRIGUES FLEURY ROSA",
-        "time":"Quarta-feira 14:00 \u00e0s 15:50  ",
-        "place":" FGA - LAB NEI 1",
-        "workload":"30h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"24",
-        "timeCode":"4T23"
-    },
-    {
-        "id":"FGA00693T234T235T23",
+        "id":"FGA00693T235T23",
         "name":"PR\u00c1TICA DE CIRCUITOS ELETR\u00d4NICOS 1",
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tROBERTO DE SOUZA BAPTISTA",
@@ -339,6 +405,28 @@
         "workload":"30h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"24",
         "timeCode":"5T23"
+    },
+    {
+        "id":"FGA00693T235T236T23",
+        "name":"PR\u00c1TICA DE CIRCUITOS ELETR\u00d4NICOS 1",
+        "link":"",
+        "teacher":"A DEFINIR DOCENTE",
+        "time":"Sexta-feira 14:00 \u00e0s 15:50  ",
+        "place":" FGA - LAB NEI 1",
+        "workload":"A DEFINIR",
+        "classSize":"24",
+        "timeCode":"6T23"
+    },
+    {
+        "id":"FGA00693T235T236T234T23",
+        "name":"PR\u00c1TICA DE CIRCUITOS ELETR\u00d4NICOS 1",
+        "link":"",
+        "teacher":"A DEFINIR DOCENTE",
+        "time":"Quarta-feira 14:00 \u00e0s 15:50  ",
+        "place":" FGA - LAB NEI 1",
+        "workload":"A DEFINIR",
+        "classSize":"24",
+        "timeCode":"4T23"
     },
     {
         "id":"FGA00706M12",
@@ -350,6 +438,17 @@
         "workload":"30h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"20",
         "timeCode":"6M12"
+    },
+    {
+        "id":"FGA00706M126T45",
+        "name":"PR\u00c1TICA DE CIRCUITOS ELETR\u00d4NICOS 2",
+        "link":"",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tDIOGO DE OLIVEIRA COSTA",
+        "time":"Sexta-feira 16:00 \u00e0s 17:50  ",
+        "place":" FGA - LAB NEI 1",
+        "workload":"30h\n\t\t\t\t\t\t\t\t\t\t\n",
+        "classSize":"20",
+        "timeCode":"6T45"
     },
     {
         "id":"FGA00715M55T1",
@@ -462,26 +561,48 @@
         "timeCode":"4T45"
     },
     {
-        "id":"FGA00715M55T15M125M345T453T235T234M124M344T234T455M12",
+        "id":"FGA00715M55T15M125M345T453T235T234M124M344T234T453M12",
         "name":"PR\u00c1TICA DE ELETR\u00d4NICA DIGITAL 1",
         "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tDIOGO DE OLIVEIRA COSTA",
-        "time":"Quinta-feira 08:00 \u00e0s 09:50  ",
+        "teacher":"A DEFINIR DOCENTE",
+        "time":"Ter\u00e7a-feira 08:00 \u00e0s 09:50  ",
         "place":" FGA - LAB NEI 2",
-        "workload":"30h\n\t\t\t\t\t\t\t\t\t\t\n",
+        "workload":"A DEFINIR",
         "classSize":"16",
-        "timeCode":"5M12"
+        "timeCode":"3M12"
     },
     {
-        "id":"FGA00715M55T15M125M345T453T235T234M124M344T234T455M125M34",
+        "id":"FGA00715M55T15M125M345T453T235T234M124M344T234T453M123M34",
         "name":"PR\u00c1TICA DE ELETR\u00d4NICA DIGITAL 1",
         "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tDIOGO DE OLIVEIRA COSTA",
-        "time":"Quinta-feira 10:00 \u00e0s 11:50  ",
+        "teacher":"A DEFINIR DOCENTE",
+        "time":"Ter\u00e7a-feira 10:00 \u00e0s 11:50  ",
         "place":" FGA - LAB NEI 2",
-        "workload":"30h\n\t\t\t\t\t\t\t\t\t\t\n",
+        "workload":"A DEFINIR",
         "classSize":"16",
-        "timeCode":"5M34"
+        "timeCode":"3M34"
+    },
+    {
+        "id":"FGA00715M55T15M125M345T453T235T234M124M344T234T453M123M346M56T1",
+        "name":"PR\u00c1TICA DE ELETR\u00d4NICA DIGITAL 1",
+        "link":"",
+        "teacher":"A DEFINIR DOCENTE",
+        "time":"Sexta-feira 12:00 \u00e0s 13:50  ",
+        "place":" FGA - LAB NEI 2",
+        "workload":"A DEFINIR",
+        "classSize":"16",
+        "timeCode":"6M56"
+    },
+    {
+        "id":"FGA00715M55T15M125M345T453T235T234M124M344T234T453M123M346M56T13M53T1",
+        "name":"PR\u00c1TICA DE ELETR\u00d4NICA DIGITAL 1",
+        "link":"",
+        "teacher":"A DEFINIR DOCENTE",
+        "time":"Ter\u00e7a-feira 12:00 \u00e0s 13:50  ",
+        "place":" FGA - LAB NEI 2",
+        "workload":"A DEFINIR",
+        "classSize":"16",
+        "timeCode":"3M53"
     },
     {
         "id":"FGA00722M34",
@@ -513,7 +634,7 @@
         "time":"Quarta-feira 08:00 \u00e0s 09:50Sexta-feira 08:00 \u00e0s 09:50  ",
         "place":" FGA - S1",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"120",
+        "classSize":"110",
         "timeCode":"46M12"
     },
     {
@@ -524,7 +645,7 @@
         "time":"Quarta-feira 14:00 \u00e0s 15:50Sexta-feira 14:00 \u00e0s 15:50  ",
         "place":" FGA - S2\/S4",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"120",
+        "classSize":"110",
         "timeCode":"46T23"
     },
     {
@@ -533,9 +654,9 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tDANIEL MAURICIO MUNOZ ARBOLEDA",
         "time":"Ter\u00e7a-feira 10:00 \u00e0s 11:50Quinta-feira 10:00 \u00e0s 11:50  ",
-        "place":" FGA - I2",
+        "place":" FGA - MULTIUSO",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"60",
+        "classSize":"25",
         "timeCode":"35M34"
     },
     {
@@ -665,7 +786,7 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tEMMANUEL PACHECO ROCHA LIMA",
         "time":"Segunda-feira 14:00 \u00e0s 15:50Quarta-feira 12:55 \u00e0s 13:50  ",
-        "place":" FGA - Sala S4",
+        "place":" FGA - S4",
         "workload":"45h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"90",
         "timeCode":"2T234T1"
@@ -682,15 +803,15 @@
         "timeCode":"3T235T2"
     },
     {
-        "id":"FGA00834M122T23",
+        "id":"FGA008324T23",
         "name":"APRENDIZADO DE M\u00c1QUINA",
         "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tFABRICIO ATAIDES BRAZ",
-        "time":"Segunda-feira 14:00 \u00e0s 15:50Quarta-feira 08:00 \u00e0s 09:50  ",
-        "place":" FGA - I6",
-        "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tSERGIO ANTONIO ANDRADE DE FREITAS",
+        "time":"Segunda-feira 14:00 \u00e0s 15:50Quarta-feira 14:00 \u00e0s 15:50  ",
+        "place":" FGA - S6 \/ I6",
+        "workload":"30h\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tFABRICIO ATAIDES BRAZ (30h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"60",
-        "timeCode":"4M122T23"
+        "timeCode":"24T23"
     },
     {
         "id":"FGA008426T45",
@@ -748,18 +869,7 @@
         "timeCode":"24T45"
     },
     {
-        "id":"FGA00874M12",
-        "name":"LABORAT\u00d3RIO DE ELETRICIDADE APLICADA",
-        "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tLOANA NUNES VELASCO",
-        "time":"Quarta-feira 08:00 \u00e0s 09:50  ",
-        "place":" FGA - LAB ELETRICIDADE",
-        "workload":"30h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"20",
-        "timeCode":"4M12"
-    },
-    {
-        "id":"FGA00874M122M34",
+        "id":"FGA00872M34",
         "name":"LABORAT\u00d3RIO DE ELETRICIDADE APLICADA",
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tJORGE ANDRES CORMANE ANGARITA",
@@ -770,7 +880,7 @@
         "timeCode":"2M34"
     },
     {
-        "id":"FGA00874M122M342T23",
+        "id":"FGA00872M342T23",
         "name":"LABORAT\u00d3RIO DE ELETRICIDADE APLICADA",
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRUDI HENRI VAN ELS",
@@ -781,7 +891,7 @@
         "timeCode":"2T23"
     },
     {
-        "id":"FGA00874M122M342T233T23",
+        "id":"FGA00872M342T233T23",
         "name":"LABORAT\u00d3RIO DE ELETRICIDADE APLICADA",
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRUDI HENRI VAN ELS",
@@ -863,20 +973,20 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tLUIS FILOMENO DE JESUS FERNANDES",
         "time":"Ter\u00e7a-feira 12:55 \u00e0s 13:50Quarta-feira 14:00 \u00e0s 15:50Sexta-feira 14:00 \u00e0s 15:50  ",
-        "place":" FGA - S6\/LAB SS\/S6 (Abordagem em Eletr\u00f4nica)",
+        "place":" FGA - LAB SS \/ S6 (Abordagem em Eletr\u00f4nica)",
         "workload":"75h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"40",
+        "classSize":"20",
         "timeCode":"3T146T23"
     },
     {
         "id":"FGA00933T146T234T1236T23",
         "name":"PRINC\u00cdPIOS DE CONTROLE",
         "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tWILLIAM REIS SILVA",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tTHIAGO FELIPPE KURUDEZ CORDEIRO",
         "time":"Quarta-feira 12:55 \u00e0s 15:50Sexta-feira 14:00 \u00e0s 15:50  ",
-        "place":" FGA - S8\/I8 (Abordagem em Aeroespacial)",
+        "place":" FGA - I8 (Abordagem em Aeroespacial)",
         "workload":"75h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"33",
+        "classSize":"20",
         "timeCode":"4T1236T23"
     },
     {
@@ -918,7 +1028,7 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tWELLINGTON AVELINO DO AMARAL",
         "time":"Ter\u00e7a-feira 16:00 \u00e0s 17:50Quinta-feira 16:00 \u00e0s 17:50  ",
-        "place":" FGA - I2",
+        "place":" FGA - S8",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"45",
         "timeCode":"35T45"
@@ -962,18 +1072,18 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tMARCUS VINICIUS CHAFFIM COSTA",
         "time":"Segunda-feira 10:00 \u00e0s 11:50Quarta-feira 10:00 \u00e0s 11:50Sexta-feira 10:00 \u00e0s 11:50  ",
-        "place":" FGA - LAB SS",
+        "place":" FGA - LAB TERMODIN\u00c2MICA \/ LAB SS",
         "workload":"90h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"45",
+        "classSize":"25",
         "timeCode":"246M34"
     },
     {
         "id":"FGA0102246M34356M12",
         "name":"SINAIS E SISTEMAS PARA ENGENHARIA",
         "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tROBERTO DE SOUZA BAPTISTA",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tLUCIANO EMIDIO NEVES DA FONSECA",
         "time":"Ter\u00e7a-feira 08:00 \u00e0s 09:50Quinta-feira 08:00 \u00e0s 09:50Sexta-feira 08:00 \u00e0s 09:50  ",
-        "place":" FGA - LAB SS\/LAB SS\/S8",
+        "place":" FGA - I5",
         "workload":"90h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"45",
         "timeCode":"356M12"
@@ -1001,37 +1111,26 @@
         "timeCode":"24M34"
     },
     {
-        "id":"FGA010525T23",
+        "id":"FGA010535T23",
         "name":"T\u00d3PICOS ESPECIAIS 2 EM ENGENHARIA AEROESPACIAL",
         "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tJUNGPYO LEE",
-        "time":"Segunda-feira 14:00 \u00e0s 15:50Quinta-feira 14:00 \u00e0s 15:50  ",
-        "place":" FGA - LDTEA - 2\u00ba Andar - Sala 302",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tARTUR ELIAS DE MORAIS BERTOLDI",
+        "time":"Ter\u00e7a-feira 14:00 \u00e0s 15:50Quinta-feira 14:00 \u00e0s 15:50  ",
+        "place":" FGA - S6",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"20",
-        "timeCode":"25T23"
+        "classSize":"40",
+        "timeCode":"35T23"
     },
     {
-        "id":"FGA010525T2335T635N1",
-        "name":"T\u00d3PICOS ESPECIAIS 2 EM ENGENHARIA AEROESPACIAL",
-        "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tPAOLO GESSINI",
-        "time":"Ter\u00e7a-feira 18:00 \u00e0s 19:50Quinta-feira 18:00 \u00e0s 19:50  ",
-        "place":" FGA - Sala I2 (Propuls\u00e3o El\u00e9trica)",
-        "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"25",
-        "timeCode":"35T635N1"
-    },
-    {
-        "id":"FGA01062T2345",
+        "id":"FGA010646T45",
         "name":"T\u00d3PICOS ESPECIAIS 3 EM ENGENHARIA AEROESPACIAL",
         "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRAFAEL CASTILHO FARIA MENDES",
-        "time":"Segunda-feira 14:00 \u00e0s 17:50  ",
-        "place":" FGA - LDTEA - 2\u00ba Andar - Sala 303 (CFD)",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tPOLLIANA CANDIDA OLIVEIRA MARTINS",
+        "time":"Quarta-feira 16:00 \u00e0s 17:50Sexta-feira 16:00 \u00e0s 17:50  ",
+        "place":" FGA - I3",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"20",
-        "timeCode":"2T2345"
+        "classSize":"45",
+        "timeCode":"46T45"
     },
     {
         "id":"FGA01073M34",
@@ -1067,23 +1166,12 @@
         "timeCode":"35T23"
     },
     {
-        "id":"FGA011726M34",
-        "name":"FUNDAMENTOS DE ENERGIA NUCLEAR",
-        "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tLEANDRO XAVIER CARDOSO",
-        "time":"Segunda-feira 10:00 \u00e0s 11:50Sexta-feira 10:00 \u00e0s 11:50  ",
-        "place":" FGA - CONTAINER 04",
-        "workload":"30h\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRONNI GERALDO GOMES DE AMORIM (30h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"30",
-        "timeCode":"26M34"
-    },
-    {
         "id":"FGA011924T23",
         "name":"TEORIA DE ELETROMAGNETISMO",
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tANDRE LUIZ ALMEIDA PENNA",
         "time":"Segunda-feira 14:00 \u00e0s 15:50Quarta-feira 14:00 \u00e0s 15:50  ",
-        "place":" FGA - I2",
+        "place":" FGA - I3 \/ I2",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"60",
         "timeCode":"24T23"
@@ -1105,9 +1193,9 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tGERARDO ANTONIO IDROBO PIZO",
         "time":"Sexta-feira 14:00 \u00e0s 15:50  ",
-        "place":" FGA - LAB TERMODIN\u00c2MICA",
+        "place":" FGA - LAB TERMOFLUIDOS",
         "workload":"30h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"25",
+        "classSize":"50",
         "timeCode":"6T23"
     },
     {
@@ -1116,20 +1204,20 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tGERARDO ANTONIO IDROBO PIZO",
         "time":"Ter\u00e7a-feira 16:00 \u00e0s 17:50  ",
-        "place":" FGA - LAB TERMODIN\u00c2MICA \/ I10",
+        "place":" FGA - I10",
         "workload":"30h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"25",
+        "classSize":"80",
         "timeCode":"3T45"
     },
     {
         "id":"FGA012135M12",
         "name":"T\u00d3PICOS ESPECIAIS 4 EM ENGENHARIA AEROESPACIAL",
         "link":"",
-        "teacher":"A DEFINIR DOCENTE",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tSERGIO HENRIQUE DA SILVA CARNEIRO",
         "time":"Ter\u00e7a-feira 08:00 \u00e0s 09:50Quinta-feira 08:00 \u00e0s 09:50  ",
-        "place":" FGA - I5",
-        "workload":"A DEFINIR",
-        "classSize":"20",
+        "place":" FGA - S3",
+        "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
+        "classSize":"45",
         "timeCode":"35M12"
     },
     {
@@ -1142,28 +1230,6 @@
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"110",
         "timeCode":"26M34"
-    },
-    {
-        "id":"FGA01252M12",
-        "name":"INTRODU\u00c7\u00c3O \u00c0 GEOMETRIA ANAL\u00cdTICA",
-        "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tVINICIUS DE CARVALHO RISPOLI",
-        "time":"Segunda-feira 08:00 \u00e0s 09:50  ",
-        "place":" FGA - I2",
-        "workload":"30h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"45",
-        "timeCode":"2M12"
-    },
-    {
-        "id":"FGA01252M124M34",
-        "name":"INTRODU\u00c7\u00c3O \u00c0 GEOMETRIA ANAL\u00cdTICA",
-        "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tLINDOMAR BOMFIM DE CARVALHO DE JESUS",
-        "time":"Quarta-feira 10:00 \u00e0s 11:50  ",
-        "place":" FGA - ANTESSALA I10",
-        "workload":"30h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"10",
-        "timeCode":"4M34"
     },
     {
         "id":"FGA013035M12",
@@ -1314,7 +1380,7 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tTIAGO ALVES DA FONSECA",
         "time":"Segunda-feira 08:00 \u00e0s 09:50Sexta-feira 08:00 \u00e0s 09:50  ",
-        "place":" FGA - S9\/S4",
+        "place":" FGA - I9",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"110",
         "timeCode":"26M12"
@@ -1380,7 +1446,7 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tDIOGO CAETANO GARCIA",
         "time":"Segunda-feira 16:00 \u00e0s 17:50Quarta-feira 16:00 \u00e0s 17:50  ",
-        "place":" FGA - ANFITEATRO",
+        "place":" FGA - S2\/I1",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"35",
         "timeCode":"24T45"
@@ -1400,11 +1466,11 @@
         "id":"FGA015024T4524T4524T45",
         "name":"PROJETO INTEGRADOR DE ENGENHARIA 1",
         "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tARTUR ELIAS DE MORAIS BERTOLDI",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tJUNGPYO LEE",
         "time":"Segunda-feira 16:00 \u00e0s 17:50Quarta-feira 16:00 \u00e0s 17:50  ",
-        "place":" FGA - ANFITEATRO",
+        "place":" FGA - S2 \/ S5",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"45",
+        "classSize":"35",
         "timeCode":"24T45"
     },
     {
@@ -1435,9 +1501,9 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tMATEUS RODRIGUES MIRANDA",
         "time":"Ter\u00e7a-feira 14:00 \u00e0s 15:50Quinta-feira 14:00 \u00e0s 15:50  ",
-        "place":" FGA - MOCAP",
+        "place":" FGA - LAB NIT\/LDS",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"50",
+        "classSize":"15",
         "timeCode":"35T23"
     },
     {
@@ -1479,9 +1545,9 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tROSEANY DE VASCONCELOS VIEIRA LOPES",
         "time":"Ter\u00e7a-feira 10:00 \u00e0s 11:50Quinta-feira 10:00 \u00e0s 11:50  ",
-        "place":" FGA - MULTIUSO",
+        "place":" FGA - LAB TERMODIN\u00c2MICA",
         "workload":"30h\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tFELIX MARTIN CARBAJAL GAMARRA (30h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"45",
+        "classSize":"25",
         "timeCode":"35M34"
     },
     {
@@ -1512,7 +1578,7 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tANDRE LUIZ PERON MARTINS LANNA",
         "time":"Segunda-feira 14:00 \u00e0s 15:50Quarta-feira 14:00 \u00e0s 15:50  ",
-        "place":" FGA - I6",
+        "place":" FGA - I6 \/ S8",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"48",
         "timeCode":"24T23"
@@ -1551,18 +1617,18 @@
         "timeCode":"35M535"
     },
     {
-        "id":"FGA016035M535T1",
+        "id":"FGA016035T23",
         "name":"M\u00c9TODOS NUM\u00c9RICOS PARA ENGENHARIA",
         "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tMANUEL NASCIMENTO DIAS BARCELOS JUNIOR",
-        "time":"Ter\u00e7a-feira 12:00 \u00e0s 13:50Quinta-feira 12:00 \u00e0s 13:50  ",
-        "place":" FGA - I7",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tLUCIANO EMIDIO NEVES DA FONSECA",
+        "time":"Ter\u00e7a-feira 14:00 \u00e0s 15:50Quinta-feira 14:00 \u00e0s 15:50  ",
+        "place":" FGA - I6",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"48",
-        "timeCode":"35M535"
+        "classSize":"80",
+        "timeCode":"35T23"
     },
     {
-        "id":"FGA016035M535T124M12",
+        "id":"FGA016035T2324M12",
         "name":"M\u00c9TODOS NUM\u00c9RICOS PARA ENGENHARIA",
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tLINDOMAR BOMFIM DE CARVALHO DE JESUS",
@@ -1573,7 +1639,7 @@
         "timeCode":"24M12"
     },
     {
-        "id":"FGA016035M535T124M1246T45",
+        "id":"FGA016035T2324M1246T45",
         "name":"M\u00c9TODOS NUM\u00c9RICOS PARA ENGENHARIA",
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRODRIGO ANDRES MIRANDA CERDA",
@@ -1622,31 +1688,31 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRICARDO RAMOS FRAGELLI",
         "time":"Segunda-feira 14:00 \u00e0s 15:50  ",
-        "place":" FGA -  SALA S3",
+        "place":" FGA - S3",
         "workload":"30h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"120",
+        "classSize":"130",
         "timeCode":"2T23"
     },
     {
         "id":"FGA01632T234T23",
         "name":"INTRODU\u00c7\u00c3O \u00c0 ENGENHARIA",
         "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tLUCIANO GONCALVES NOLETO",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tPATRICIA REGINA SOBRAL BRAGA",
         "time":"Quarta-feira 14:00 \u00e0s 15:50  ",
-        "place":" FGA - I9",
+        "place":" FGA - ANFITEATRO",
         "workload":"30h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"120",
+        "classSize":"250",
         "timeCode":"4T23"
     },
     {
         "id":"FGA01632T234T232M12",
         "name":"INTRODU\u00c7\u00c3O \u00c0 ENGENHARIA",
         "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tAUGUSTO CESAR DE MENDONCA BRASIL",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRUDI HENRI VAN ELS",
         "time":"Segunda-feira 08:00 \u00e0s 09:50  ",
-        "place":" FGA - I9",
+        "place":" FGA - ANFITEATRO",
         "workload":"30h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"120",
+        "classSize":"250",
         "timeCode":"2M12"
     },
     {
@@ -1710,7 +1776,7 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tSALEH BARBOSA KHALIL",
         "time":"Quarta-feira 10:00 \u00e0s 11:50Sexta-feira 10:00 \u00e0s 11:50  ",
-        "place":" FGA - S2\/S1",
+        "place":" FGA - S2 \/ S1",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"45",
         "timeCode":"46M34"
@@ -1774,10 +1840,10 @@
         "id":"FGA0168246M12235M34356T45246M12235M34235M5235T1",
         "name":"DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
         "link":"",
-        "teacher":"A DEFINIR DOCENTE",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tEUCLIDES DELGADO MARQUES SANT ANNA",
         "time":"Segunda-feira 12:00 \u00e0s 13:50Ter\u00e7a-feira 12:00 \u00e0s 13:50Quinta-feira 12:00 \u00e0s 13:50  ",
         "place":" FGA - I10",
-        "workload":"A DEFINIR",
+        "workload":"90h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"70",
         "timeCode":"235M5235"
     },
@@ -1798,10 +1864,10 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tDANIEL SUNDFELD LIMA",
         "time":"Segunda-feira 12:00 \u00e0s 13:50Quarta-feira 12:00 \u00e0s 13:50  ",
-        "place":" FGA  - I9",
+        "place":" FGA  - S1",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"110",
-        "timeCode":"24M5"
+        "timeCode":"24M524"
     },
     {
         "id":"FGA017235M34",
@@ -1991,15 +2057,15 @@
         "timeCode":"35T635N1"
     },
     {
-        "id":"FGA020135M34",
-        "name":"PROJETO DE CIRCUITOS INTEGRADOS DIGITAIS",
+        "id":"FGA019835M12",
+        "name":"PROJETO COM CIRCUITOS RECONFIGURAVEIS",
         "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tGILMAR SILVA BESERRA",
-        "time":"Ter\u00e7a-feira 10:00 \u00e0s 11:50Quinta-feira 10:00 \u00e0s 11:50  ",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tDANIEL MAURICIO MUNOZ ARBOLEDA",
+        "time":"Ter\u00e7a-feira 08:00 \u00e0s 09:50Quinta-feira 08:00 \u00e0s 09:50  ",
         "place":" FGA - LAB SS",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"30",
-        "timeCode":"35M34"
+        "classSize":"20",
+        "timeCode":"35M12"
     },
     {
         "id":"FGA020426M344M4",
@@ -2095,7 +2161,7 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tCRISTIANO JACQUES MIOSSO RODRIGUES MENDES",
         "time":"Quarta-feira 08:00 \u00e0s 09:50Sexta-feira 08:00 \u00e0s 09:50  ",
-        "place":" FGA -  A DESIGNAR\/I1",
+        "place":" FGA - MOCAP \/ I1",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"45",
         "timeCode":"46M12"
@@ -2137,10 +2203,10 @@
         "id":"FGA022924T45",
         "name":"AN\u00c1LISE ESTRUTURAL M\u00c9TODO DOS ELEMENTOS FINITOS",
         "link":"",
-        "teacher":"A DEFINIR DOCENTE",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tEUCLIDES DELGADO MARQUES SANT ANNA",
         "time":"Segunda-feira 16:00 \u00e0s 17:50Quarta-feira 16:00 \u00e0s 17:50  ",
-        "place":" FGA - I7",
-        "workload":"A DEFINIR",
+        "place":" FGA - I8",
+        "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"40",
         "timeCode":"24T45"
     },
@@ -2161,7 +2227,7 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tHENRIQUE GOMES DE MOURA",
         "time":"Segunda-feira 10:00 \u00e0s 11:50Quarta-feira 10:00 \u00e0s 11:50  ",
-        "place":" FGA - I1\/S7",
+        "place":" FGA - I1 \/ S7",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"45",
         "timeCode":"24M34"
@@ -2271,9 +2337,9 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRAFAEL CASTILHO FARIA MENDES",
         "time":"Quarta-feira 16:00 \u00e0s 17:50Sexta-feira 14:00 \u00e0s 17:50  ",
-        "place":" FGA - S1\/ANFITEATRO",
+        "place":" FGA - S1 \/ ANFITEATRO",
         "workload":"90h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"130",
+        "classSize":"35",
         "timeCode":"4T456T2345"
     },
     {
@@ -2293,7 +2359,7 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tMANUEL NASCIMENTO DIAS BARCELOS JUNIOR",
         "time":"Segunda-feira 08:00 \u00e0s 08:55Ter\u00e7a-feira 08:00 \u00e0s 09:50Quinta-feira 08:00 \u00e0s 09:50  ",
-        "place":" FGA - LAB TERMOFLUIDOS",
+        "place":" FGA - LAB TERMODIN\u00c2MICA",
         "workload":"15h\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tFELIPE CHAGAS STORTI (60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"25",
         "timeCode":"2M135M12"
@@ -2304,7 +2370,7 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRUDI HENRI VAN ELS",
         "time":"Segunda-feira 16:00 \u00e0s 16:55Quarta-feira 08:00 \u00e0s 09:50Sexta-feira 08:00 \u00e0s 09:50  ",
-        "place":" FGA - LAB TERMODINAMICA\/LAB TERMOFLUIDOS",
+        "place":" FGA - LAB TERMOFLUIDOS \/ LAB TERMODIN\u00c2MICA",
         "workload":"15h\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tLUCIANO GONCALVES NOLETO (60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"25",
         "timeCode":"46M122T4"
@@ -2326,9 +2392,9 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tEULER DE VILHENA GARCIA",
         "time":"Ter\u00e7a-feira 10:00 \u00e0s 11:50Quinta-feira 10:00 \u00e0s 11:50  ",
-        "place":" FGA - SALA S5",
+        "place":" FGA - CONTAINER 10",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"45",
+        "classSize":"15",
         "timeCode":"35M34"
     },
     {
@@ -2339,19 +2405,41 @@
         "time":"Segunda-feira 18:00 \u00e0s 19:50Quarta-feira 18:00 \u00e0s 19:50  ",
         "place":" FGA - LAB SS (Circuitos ECAD)",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"30",
+        "classSize":"20",
         "timeCode":"24T624N1"
     },
     {
-        "id":"FGA026124T624N135T635N1",
+        "id":"FGA026124T624N135M34",
         "name":"T\u00d3PICOS ESPECIAIS EM ELETRONICA",
         "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tSANDRO AUGUSTO PAVLIK HADDAD",
-        "time":"Ter\u00e7a-feira 18:00 \u00e0s 19:50Quinta-feira 18:00 \u00e0s 19:50  ",
-        "place":" FGA - LAB SS (Projeto de Circuitos Integrados)",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tROBERTO DE SOUZA BAPTISTA",
+        "time":"Ter\u00e7a-feira 10:00 \u00e0s 11:50Quinta-feira 10:00 \u00e0s 11:50  ",
+        "place":" FGA - LAB SS (Rob\u00f3tica)",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"20",
-        "timeCode":"35T635N1"
+        "classSize":"25",
+        "timeCode":"35M34"
+    },
+    {
+        "id":"FGA026124T624N135M3435T45",
+        "name":"T\u00d3PICOS ESPECIAIS EM ELETRONICA",
+        "link":"",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tSEBASTIEN ROLAND MARIE JOSEPH RONDINEAU",
+        "time":"Ter\u00e7a-feira 16:00 \u00e0s 17:50Quinta-feira 16:00 \u00e0s 17:50  ",
+        "place":" FGA - MULTIUSO",
+        "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
+        "classSize":"15",
+        "timeCode":"35T45"
+    },
+    {
+        "id":"FGA026124T624N135M3435T4535M34",
+        "name":"T\u00d3PICOS ESPECIAIS EM ELETRONICA",
+        "link":"",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tMARCUS VINICIUS BATISTUTA",
+        "time":"Ter\u00e7a-feira 10:00 \u00e0s 11:50Quinta-feira 10:00 \u00e0s 11:50  ",
+        "place":" FGA - S7",
+        "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
+        "classSize":"15",
+        "timeCode":"35M34"
     },
     {
         "id":"FGA02624M3456M34",
@@ -2442,6 +2530,17 @@
         "timeCode":"24T23"
     },
     {
+        "id":"FGA028035T635N1",
+        "name":"PROJETO DE CIRCUITOS ELETR\u00d4NICOS INTEGRADOS 2",
+        "link":"",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tSANDRO AUGUSTO PAVLIK HADDAD",
+        "time":"Ter\u00e7a-feira 18:00 \u00e0s 19:50Quinta-feira 18:00 \u00e0s 19:50  ",
+        "place":" FGA - LAB SS",
+        "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
+        "classSize":"20",
+        "timeCode":"35T635N1"
+    },
+    {
         "id":"FGA028124T23",
         "name":"SISTEMAS DE PROPULS\u00c3O LIQUIDA",
         "link":"",
@@ -2453,34 +2552,12 @@
         "timeCode":"24T23"
     },
     {
-        "id":"FGA028246T23",
-        "name":"FUNDAMENTOS DO PROJETO DE AERONAVES",
-        "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tPOLLIANA CANDIDA OLIVEIRA MARTINS",
-        "time":"Quarta-feira 14:00 \u00e0s 15:50Sexta-feira 14:00 \u00e0s 15:50  ",
-        "place":" FGA - I-8 \/ MULTIUSO",
-        "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"20",
-        "timeCode":"46T23"
-    },
-    {
-        "id":"FGA028335M34(18\/03\/2024-15\/07\/2024)",
-        "name":"MEC\u00c2NICA DOS MATERIAIS COMP\u00d3SITOS",
-        "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tARTEM ANDRIANOV",
-        "time":"Ter\u00e7a-feira 10:00 \u00e0s 11:50Quinta-feira 10:00 \u00e0s 11:50  ",
-        "place":" FGA - Container 4 \/ LDTEA - 2\u00ba Andar - Sala 302",
-        "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
-        "classSize":"20",
-        "timeCode":"35M34(18\/03\/2024-15\/07\/2024)"
-    },
-    {
         "id":"FGA028446T45(18\/03\/2024-15\/07\/2024)",
         "name":"ENGENHARIA DE MANUTEN\u00c7\u00c3O",
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tFABIO CORDEIRO DE LISBOA",
         "time":"Quarta-feira 16:00 \u00e0s 17:50Sexta-feira 16:00 \u00e0s 17:50  ",
-        "place":" FGA - I5",
+        "place":" FGA - MULTIUSO",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"20",
         "timeCode":"46T45(18\/03\/2024-15\/07\/2024)"
@@ -2491,10 +2568,43 @@
         "link":"",
         "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tCARLA TATIANA MOTA ANFLOR",
         "time":"Segunda-feira 10:00 \u00e0s 11:50Quarta-feira 10:00 \u00e0s 11:50  ",
-        "place":" FGA - LDTEA 3",
+        "place":" FGA - LDTEA 2",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"30",
         "timeCode":"24M34(18\/03\/2024-15\/07\/2024)"
+    },
+    {
+        "id":"FGA02864T4564N1(18\/03\/2024-15\/07\/2024)",
+        "name":"FUNDAMENTOS DO M\u00c9TODO DOS ELEMENTOS FINITOS",
+        "link":"",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tMANUEL NASCIMENTO DIAS BARCELOS JUNIOR",
+        "time":"Quarta-feira 16:00 \u00e0s 19:50  ",
+        "place":" FGA - LDTEA 3",
+        "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
+        "classSize":"30",
+        "timeCode":"4T4564N1(18\/03\/2024-15\/07\/2024)"
+    },
+    {
+        "id":"FGA029135M34(18\/03\/2024-15\/07\/2024)",
+        "name":"MEC\u00c2NICA DE ESTRUTURAS AERON\u00c1UTICAS",
+        "link":"",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tARTEM ANDRIANOV",
+        "time":"Ter\u00e7a-feira 10:00 \u00e0s 11:50Quinta-feira 10:00 \u00e0s 11:50  ",
+        "place":" FGA - CONTAINER 17 \/ LDTEA 2",
+        "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
+        "classSize":"20",
+        "timeCode":"35M34(18\/03\/2024-15\/07\/2024)"
+    },
+    {
+        "id":"FGA029235T635N1(18\/03\/2024-15\/07\/2024)",
+        "name":"INTRODU\u00c7\u00c3O \u00c0 FOT\u00d4NICA E OPTR\u00d4NICA",
+        "link":"",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tSEBASTIEN ROLAND MARIE JOSEPH RONDINEAU",
+        "time":"Ter\u00e7a-feira 18:00 \u00e0s 19:50Quinta-feira 18:00 \u00e0s 19:50  ",
+        "place":" FGA - MULTIUSO",
+        "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
+        "classSize":"20",
+        "timeCode":"35T635N1(18\/03\/2024-15\/07\/2024)"
     },
     {
         "id":"FGA02996T2345",
@@ -2508,14 +2618,25 @@
         "timeCode":"6T2345"
     },
     {
-        "id":"FGA030046M34(18\/03\/2024-15\/07\/2024)",
-        "name":"TELECOMUNICA\u00c7\u00d5ES ESPACIAIS",
+        "id":"FGA030146M34",
+        "name":"INSTALA\u00c7\u00d5ES EL\u00c9TRICAS EM SISTEMAS DE ENERGIA",
         "link":"",
-        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tSEBASTIEN ROLAND MARIE JOSEPH RONDINEAU",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tALEX REIS",
         "time":"Quarta-feira 10:00 \u00e0s 11:50Sexta-feira 10:00 \u00e0s 11:50  ",
-        "place":" FGA - Container 4 \/ LDTEA - Sala 303",
+        "place":" FGA - LAB ELETRICIDADE",
         "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
         "classSize":"25",
-        "timeCode":"46M34(18\/03\/2024-15\/07\/2024)"
+        "timeCode":"46M34"
+    },
+    {
+        "id":"FGA038046T23",
+        "name":"PROCESSOS ESTOC\u00c1STICOS",
+        "link":"",
+        "teacher":"\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tCRISTIANO JACQUES MIOSSO RODRIGUES MENDES",
+        "time":"Quarta-feira 14:00 \u00e0s 15:50Sexta-feira 14:00 \u00e0s 15:50  ",
+        "place":" FGA - S5",
+        "workload":"60h\n\t\t\t\t\t\t\t\t\t\t\n",
+        "classSize":"25",
+        "timeCode":"46T23"
     }
 ]

@@ -157,6 +157,6 @@ tabelinha = pd.DataFrame(pre_dataframe, columns = cabecalho_dataframe)
 
 
 # Salvando dataframe
-tabelinha.to_json('/frontend/data/turma1.json', orient="records", indent=4)
+tabelinha.to_json('frontend/data/turma.json', orient="records", indent=4)
 
 navegador.close()

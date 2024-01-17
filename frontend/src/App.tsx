@@ -89,7 +89,7 @@ function App() {
             href="http://software.unb.br/images/ESW/grade_curricular.png"
             target="_blank"
           >
-            Fluxograma
+            Fluxograma - Software
           </a>
         </div>
       </div>
